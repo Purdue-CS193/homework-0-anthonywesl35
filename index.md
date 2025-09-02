@@ -13,17 +13,10 @@ Syntax highlighted code block
 
 # Anthony Wesley's First CS193 Homework
 
-## My Favorite things about CS193:
+# My Favorite things about CS193:
 - It is taught by older students
 - It is designed to help us students
 - Hands on work
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
